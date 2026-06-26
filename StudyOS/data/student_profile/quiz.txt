@@ -1,0 +1,50 @@
+
+Q1. What is UNIT V — The Modern Data Warehouse in Azure?
+
+A) Definition
+B) Example
+C) Application
+D) All of the Above
+
+Answer: D
+
+
+Q2. What is Scripting, Automation & Beyond the Modern Data Warehouse?
+
+A) Definition
+B) Example
+C) Application
+D) All of the Above
+
+Answer: D
+
+
+Q3. What is Syllabus Overview?
+
+A) Definition
+B) Example
+C) Application
+D) All of the Above
+
+Answer: D
+
+
+Q4. What is • Topic 1 — Using Scripting and Automation: The Power of PowerShell, Commonly Used?
+
+A) Definition
+B) Example
+C) Application
+D) All of the Above
+
+Answer: D
+
+
+Q5. What is Scripts — Code Generation, Invoke Data Factory Pipeline, Recurse Data Lake Structures?
+
+A) Definition
+B) Example
+C) Application
+D) All of the Above
+
+Answer: D
+

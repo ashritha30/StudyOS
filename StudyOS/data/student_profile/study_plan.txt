@@ -1,0 +1,14 @@
+Day 1: Study UNIT V — The Modern Data Warehouse in Azure
+
+Day 2: Study Scripting, Automation & Beyond the Modern Data Warehouse
+
+Day 3: Study Syllabus Overview
+
+Day 4: Study • Topic 1 — Using Scripting and Automation: The Power of PowerShell, Commonly Used
+
+Day 5: Study Scripts — Code Generation, Invoke Data Factory Pipeline, Recurse Data Lake Structures
+
+Day 6: Study • Topic 2 — Beyond the Modern Data Warehouse (Case Studies): Microsoft Power BI, Azure
+
+Day 7: Study PART 1: Using Scripting and Automation
+
