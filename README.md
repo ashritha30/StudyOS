@@ -71,6 +71,9 @@ StudyOS follows a Multi-Agent Architecture where specialized agents collaborate 
 
 Each agent performs an independent responsibility while sharing information through a common memory system.
 
+### 🏗️ Architecture Diagram
+
+![StudyOS Architecture](assets/screenshots/architecture.png)
 ---
 
 # 🛠️ Technology Stack
